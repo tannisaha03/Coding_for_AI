@@ -3,7 +3,7 @@ Program : Autonomous Environmental Safety Tiering (Climatic Logic Module)
 Purpose : Classifies a human-robot collaborative work-site into one of four
           safety tiers using multi-signal telemetry condensed into a single
           derived quantity, the Heat Stress Index.
-Author  : SOHAN SAHA
+Author  : TANNI SAHA PUJA
 Date    : 21/08/2026
 Course  : Coding for AI - Dr. Prateek, Problem Set 2.1 (Bonus)
 """
