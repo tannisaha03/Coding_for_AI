@@ -3,7 +3,7 @@ Program : The Multi-Dimensional Packet Scrambler (Data Rotation Engine)
 Purpose : Takes a list representing a data packet and puts it through a fixed
           four-stage pipeline of transformations, using only built-in list
           operations - no external libraries.
-Author  : SOHAN SAHA
+Author  : TANNI SAHA PUJA
 Date    : 21/08/2026
 Course  : Coding for AI - Module 1, week 3-4, Problem Set 3
 """
