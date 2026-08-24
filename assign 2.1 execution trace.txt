@@ -1,7 +1,7 @@
 ================================================================================
 EXECUTION TRACE - Problem Set 2.1 (Bonus)
 Autonomous Environmental Safety Tiering
-Author : SOHAN SAHA
+Author : TANNI SAHA PUJA
 Date   : 21/08/2026
 Script : assign 2.1.py
 ================================================================================
