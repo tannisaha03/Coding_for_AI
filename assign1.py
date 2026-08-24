@@ -2,7 +2,7 @@
 Program : Temporal Profile Analyzer
 Purpose : Ingests a user's name and age, computes temporal metrics against a
           2045 reference year, and reports an AI Era Readiness Score.
-Author  : Sohan Saha
+Author  : Tanni Saha Puja
 Date    : 3rd Aug 2026
 """
 
