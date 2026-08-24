@@ -16,8 +16,8 @@ SCENARIO (a) - EMPTY INPUT, CAUGHT BY THE WALRUS-OPERATOR CHECK
 
 CONSOLE SESSION
     === Autonomous Environmental Safety Tiering ===
-    Operator ID: SOHAN SAHA
-    Telemetry session opened by: SOHAN SAHA
+    Operator ID: TANNI SAHA PUJA
+    Telemetry session opened by: TANNI SAHA PUJA
     Temperature (C):
     Safety Level: Unknown
 
@@ -25,7 +25,7 @@ CONSOLE SESSION
 
 LOGIC PATH
     1. operator_id = input(...).strip() or "Guest_User"
-       -> "SOHAN SAHA" is truthy, so `or` returns it and the default is
+       -> "TANNI SAHA PUJA" is truthy, so `or` returns it and the default is
           never evaluated.
 
     2. if not (temp_str := input("Temperature (C): ").strip()):
@@ -50,8 +50,8 @@ SCENARIO (b) - CRITICAL HEATWAVE READING
 
 CONSOLE SESSION
     === Autonomous Environmental Safety Tiering ===
-    Operator ID: SOHAN SAHA
-    Telemetry session opened by: SOHAN SAHA
+    Operator ID: TANNI SAHA PUJA
+    Telemetry session opened by: TANNI SAHA PUJA
     Temperature (C): 32
     Humidity (%): 80
     Wind speed (km/h): 10
@@ -91,8 +91,8 @@ SCENARIO (c) - CAUTIONARY READING, THEN ADJUSTED BY THE BATTERY-LEVEL LOGIC
 
 CONSOLE SESSION
     === Autonomous Environmental Safety Tiering ===
-    Operator ID: SOHAN SAHA
-    Telemetry session opened by: SOHAN SAHA
+    Operator ID: TANNI SAHA PUJA
+    Telemetry session opened by: TANNI SAHA PUJA
     Temperature (C): 25
     Humidity (%): 20
     Wind speed (km/h): 3
