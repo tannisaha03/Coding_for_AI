@@ -1,7 +1,7 @@
 """
 Program : Weather-Bot 3000
 Purpose : Gives simple lifestyle advice based on temperature and rain.
-Author  : SOHAN SAHA
+Author  : TANNI SAHA PUJA
 Date    : 21/08/2026
 """
 
